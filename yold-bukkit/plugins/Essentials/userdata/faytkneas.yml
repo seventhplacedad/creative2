@@ -1,0 +1,29 @@
+uuid: 58facbf8-b619-37af-8c28-daebda1e0c67
+timestamps:
+  login: 1535513259233
+  lastteleport: 1535513558440
+  logout: 1535514487227
+ipAddress: 24.21.68.237
+lastlocation:
+  world: kevlar
+  x: -311.5
+  y: 67.0
+  z: 450.5
+  yaw: -210.88158
+  pitch: 22.026537
+logoutlocation:
+  world: kevlar
+  x: -313.0886891985757
+  y: 66.0
+  z: 448.0085243630635
+  yaw: 9.177124
+  pitch: 31.0893
+afk: false
+homes:
+  home:
+    world: kevlar
+    x: -639.0477588992132
+    y: 110.0
+    z: 922.3517545653956
+    yaw: 284.2884
+    pitch: 31.057528

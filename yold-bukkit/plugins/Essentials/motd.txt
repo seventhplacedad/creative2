@@ -1,0 +1,9 @@
+&6Welcome, {PLAYER}&6!
+&6This is the &bKellar and Co Creative Server
+&6'&1/warp citycenter&6' to get started&6
+&6User &4op commands carefully&6 or ill have to make an annoying permission system&6
+if you have world edit experience you may but no copy and dont be a fool
+message at the listed server if issues or if u need support
+Join the Discord: https://discord.gg/tn8kFZx
+&6Type &c/list&6 to see who else is online.
+&6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
