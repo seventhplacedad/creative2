@@ -15351,3 +15351,482 @@ java.io.IOException: Bad file descriptor
 [16:51:01 INFO]: Server permissions file permissions.yml is empty, ignoring it
 [16:51:01 INFO]: Done (7.820s)! For help, type "help" or "?"
 [16:51:01 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[16:57:27 INFO]: Kevlar[/192.168.0.100:55759] logged in with entity id 1563 at ([kevlar] -302.99738641199406, 54.69999998807907, 513.5)
+[16:57:59 INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[16:58:49 INFO]: Kevlar issued server command: /sc
+[16:58:59 INFO]: Kevlar issued server command: /sc set auto
+[16:59:03 INFO]: Kevlar issued server command: /sc set 4 auto
+[16:59:56 INFO]: Kevlar issued server command: /sc clean
+[17:00:01 INFO]: Kevlar issued server command: /sc set 0.5
+[17:00:11 INFO]: Kevlar issued server command: /sc set 0.3 auto
+[17:01:49 INFO]: Kevlar issued server command: /signedit 1 &lWest Rail
+[17:01:49 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 1 &lWest Rail
+[17:01:50 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-485, 89, 505, kevlar) "§l Black Rail" changed to "&lWest Rail"
+[17:02:18 INFO]: Kevlar issued server command: /signedit 1 &fEast Rail <--
+[17:02:18 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 1 &fEast Rail <--
+[17:02:19 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "§fWhite Rail<--" changed to "&fEast Rail <--"
+[17:02:44 INFO]: Kevlar issued server command: /signedit 2 To Smit Pool
+[17:02:44 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 2 To Smit Pool
+[17:02:45 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "To §aSmit Pool" changed to "To Smit Pool"
+[17:03:10 INFO]: Kevlar issued server command: /signed 4 and &1Stadium
+[17:04:06 INFO]: Kevlar issued server command: /signed 3 and &2Stadium
+[17:04:31 INFO]: Kevlar issued server command: /signedit 2 To Smit Pool
+[17:04:31 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 2 To Smit Pool
+[17:04:31 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "" changed to "To Smit Pool"
+[17:04:42 INFO]: Kevlar issued server command: /signedit 3 via &2Airport
+[17:04:42 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 via &2Airport
+[17:04:43 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "" changed to "via &2Airport"
+[17:04:49 INFO]: Kevlar issued server command: /signedit 3 via &3Airport
+[17:04:49 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 via &3Airport
+[17:04:49 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "via §2Airport" changed to "via &3Airport"
+[17:04:53 INFO]: Kevlar issued server command: /signedit 3 via &4Airport
+[17:04:53 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 via &4Airport
+[17:04:54 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "via §3Airport" changed to "via &4Airport"
+[17:05:04 INFO]: Kevlar issued server command: /signedit 4 then &4Stadium
+[17:05:04 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 4 then &4Stadium
+[17:05:05 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "" changed to "then &4Stadium"
+[17:05:57 INFO]: Kevlar issued server command: /signedit copy 2
+[17:05:57 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit copy 2
+[17:06:17 INFO]: Kevlar issued server command: /signedit 3 via &5Airport
+[17:06:17 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 via &5Airport
+[17:06:17 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "via §4Airport" changed to "via &5Airport"
+[17:06:21 INFO]: Kevlar issued server command: /signedit 3 via &6Airport
+[17:06:21 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 via &6Airport
+[17:06:23 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "via §5Airport" changed to "via &6Airport"
+[17:06:46 INFO]: Kevlar issued server command: /signedit 3 via &4Airport
+[17:06:46 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 via &4Airport
+[17:06:46 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-492, 89, 508, kevlar) "via §6Airport" changed to "via &4Airport"
+[17:07:58 INFO]: Kevlar issued server command: /signedit 3 via &a&lEast-West
+[17:07:58 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 via &a&lEast-West
+[17:07:59 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-485, 89, 508, kevlar) "§cEast-West" changed to "via &a&lEast-West"
+[17:08:05 INFO]: Kevlar issued server command: /signedit 3 &a&lEast-West
+[17:08:05 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit 3 &a&lEast-West
+[17:08:05 INFO]: [SignEdit] [SIGN_CHANGE] Kevlar: (-485, 89, 508, kevlar) "via §a§lEast-We" changed to "&a&lEast-West"
+[17:08:16 INFO]: Kevlar issued server command: /signedit copy 1
+[17:08:16 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit copy 1
+[17:09:32 INFO]: Kevlar issued server command: /sc set 3 a
+[17:09:35 INFO]: Kevlar issued server command: /sc set 3 auto
+[17:09:42 INFO]: Kevlar issued server command: /sc set 3 auto
+[17:09:53 INFO]: Kevlar issued server command: /sc set 3 auto
+[17:09:58 INFO]: Kevlar issued server command: /sc set 3 auto
+[17:10:47 INFO]: Kevlar issued server command: /sc set 1.5 auto
+[17:10:54 INFO]: Kevlar issued server command: /sc set 1 auto
+[17:11:42 INFO]: Kevlar issued server command: /thru
+[17:11:42 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[17:11:48 INFO]: Kevlar issued server command: /warp stadium
+[17:11:51 INFO]: Kevlar issued server command: /time set day
+[17:11:53 INFO]: Kevlar issued server command: /toggledownfall
+[17:11:53 INFO]: Kevlar: Toggling downfall off for world 'kevlar'
+[17:13:04 INFO]: Kevlar issued server command: /j
+[17:13:04 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[17:13:13 INFO]: Kevlar issued server command: /j
+[17:13:13 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[17:13:38 INFO]: Kevlar issued server command: /j
+[17:13:38 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[17:18:29 INFO]: Kevlar issued server command: /expand 40
+[17:18:29 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 40 - Region: (-131.0, 57.0, 514.0) - (-131.0, 59.0, 516.0)
+[17:18:34 INFO]: Kevlar issued server command: /set air
+[17:18:34 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-131.0, 57.0, 514.0) - (-91.0, 59.0, 516.0)
+[17:18:47 INFO]: Kevlar issued server command: /expand 10
+[17:18:47 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (-90.0, 57.0, 514.0) - (-90.0, 59.0, 516.0)
+[17:18:48 INFO]: Kevlar issued server command: /set air
+[17:18:48 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-90.0, 57.0, 514.0) - (-80.0, 59.0, 516.0)
+[17:18:53 INFO]: Kevlar issued server command: /expand 10
+[17:18:53 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (-90.0, 57.0, 514.0) - (-80.0, 59.0, 516.0)
+[17:18:54 INFO]: Kevlar issued server command: /set air
+[17:18:54 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-90.0, 57.0, 514.0) - (-70.0, 59.0, 516.0)
+[17:18:58 INFO]: Kevlar issued server command: /expand 10
+[17:18:58 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (-90.0, 57.0, 514.0) - (-70.0, 59.0, 516.0)
+[17:18:58 INFO]: Kevlar issued server command: /set air
+[17:18:58 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-90.0, 57.0, 514.0) - (-60.0, 59.0, 516.0)
+[17:19:04 INFO]: Kevlar issued server command: /undo
+[17:19:04 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[17:19:26 INFO]: Kevlar issued server command: /expand 20
+[17:19:26 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-81.0, 57.0, 517.0) - (-79.0, 59.0, 517.0)
+[17:19:29 INFO]: Kevlar issued server command: /set air
+[17:19:29 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-81.0, 57.0, 517.0) - (-79.0, 59.0, 537.0)
+[17:19:34 INFO]: Kevlar issued server command: /expand 20
+[17:19:34 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-81.0, 57.0, 517.0) - (-79.0, 59.0, 537.0)
+[17:19:35 INFO]: Kevlar issued server command: /set air
+[17:19:35 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-81.0, 57.0, 517.0) - (-79.0, 59.0, 557.0)
+[17:19:41 INFO]: Kevlar issued server command: /expand 20
+[17:19:41 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-81.0, 57.0, 517.0) - (-79.0, 59.0, 557.0)
+[17:19:41 INFO]: Kevlar issued server command: /set air
+[17:19:41 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-81.0, 57.0, 517.0) - (-79.0, 59.0, 577.0)
+[17:19:50 INFO]: Kevlar issued server command: /expand 20
+[17:19:50 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-78.0, 57.0, 575.0) - (-78.0, 59.0, 577.0)
+[17:19:51 INFO]: Kevlar issued server command: /set air
+[17:19:51 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-78.0, 57.0, 575.0) - (-58.0, 59.0, 577.0)
+[17:20:03 INFO]: Kevlar issued server command: /expand 20
+[17:20:03 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-78.0, 57.0, 575.0) - (-58.0, 59.0, 577.0)
+[17:20:04 INFO]: Kevlar issued server command: /set air
+[17:20:04 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-78.0, 57.0, 575.0) - (-38.0, 59.0, 577.0)
+[17:20:31 INFO]: Kevlar issued server command: /expand 30
+[17:20:31 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (-37.0, 57.0, 575.0) - (-37.0, 59.0, 577.0)
+[17:20:33 INFO]: Kevlar issued server command: /set iar
+[17:20:33 INFO]: WorldEdit: Kevlar (in "kevlar"): /set iar - Region: (-37.0, 57.0, 575.0) - (-7.0, 59.0, 577.0)
+[17:20:34 INFO]: Kevlar issued server command: /st air
+[17:20:36 INFO]: Kevlar issued server command: /set air
+[17:20:36 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-37.0, 57.0, 575.0) - (-7.0, 59.0, 577.0)
+[17:20:43 INFO]: Kevlar issued server command: /expand 30
+[17:20:43 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (-37.0, 57.0, 575.0) - (-7.0, 59.0, 577.0)
+[17:20:44 INFO]: Kevlar issued server command: /set air
+[17:20:44 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-37.0, 57.0, 575.0) - (23.0, 59.0, 577.0)
+[17:20:49 INFO]: Kevlar issued server command: /expand 30
+[17:20:49 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (-37.0, 57.0, 575.0) - (23.0, 59.0, 577.0)
+[17:20:50 INFO]: Kevlar issued server command: /set air
+[17:20:50 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-37.0, 57.0, 575.0) - (53.0, 59.0, 577.0)
+[17:20:55 INFO]: Kevlar issued server command: /expand 30
+[17:20:55 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (-37.0, 57.0, 575.0) - (53.0, 59.0, 577.0)
+[17:20:56 INFO]: Kevlar issued server command: /set air
+[17:20:56 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-37.0, 57.0, 575.0) - (83.0, 59.0, 577.0)
+[17:26:07 INFO]: Kevlar issued server command: /expand 20
+[17:26:07 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (108.0, 32.0, 610.0) - (108.0, 34.0, 612.0)
+[17:26:09 INFO]: Kevlar issued server command: /set air
+[17:26:09 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (88.0, 32.0, 610.0) - (108.0, 34.0, 612.0)
+[17:28:42 INFO]: Kevlar lost connection: Disconnected
+[17:28:42 INFO]: Kevlar left the game.
+[18:34:44 INFO]: korvallis[/127.0.0.1:37700] logged in with entity id 73146 at ([kevlar] -145.34256517605436, 65.16697975915292, 542.6999999880791)
+[18:38:03 INFO]: korvallis issued server command: /set quartz
+[18:38:03 INFO]: WorldEdit: korvallis (in "kevlar"): /set quartz - Region: (-155.0, 63.0, 536.0) - (-155.0, 67.0, 543.0)
+[18:38:48 INFO]: korvallis issued server command: /set quartz
+[18:38:48 INFO]: WorldEdit: korvallis (in "kevlar"): /set quartz - Region: (-155.0, 63.0, 510.0) - (-155.0, 67.0, 517.0)
+[18:43:41 INFO]: korvallis issued server command: /set stone
+[18:43:41 INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-135.0, 56.0, 534.0) - (-132.0, 56.0, 542.0)
+[18:58:51 INFO]: korvallis issued server command: /regen
+[18:58:51 INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-207.0, 79.0, 605.0) - (-193.0, 89.0, 606.0)
+[19:01:36 INFO]: korvallis issued server command: /warp stadium
+[19:02:15 INFO]: korvallis issued server command: /killall mobs
+[19:04:53 INFO]: korvallis issued server command: /thru
+[19:04:53 INFO]: WorldEdit: korvallis (in "kevlar"): thru
+[19:11:22 INFO]: korvallis issued server command: /set glowstone
+[19:11:22 INFO]: WorldEdit: korvallis (in "kevlar"): /set glowstone - Region: (-205.0, 50.0, 530.0) - (-174.0, 50.0, 530.0)
+[19:11:34 INFO]: korvallis issued server command: /set 0
+[19:11:34 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-194.0, 54.0, 529.0) - (-173.0, 54.0, 531.0)
+[19:12:46 INFO]: korvallis issued server command: /set stone
+[19:12:46 INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-194.0, 51.0, 532.0) - (-182.0, 53.0, 532.0)
+[19:12:56 INFO]: korvallis issued server command: /set stone
+[19:12:56 INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-194.0, 51.0, 527.0) - (-182.0, 53.0, 528.0)
+[19:15:20 INFO]: korvallis issued server command: /set stone
+[19:15:20 INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-173.0, 51.0, 533.0) - (-167.0, 54.0, 533.0)
+[19:15:29 INFO]: korvallis issued server command: /set stone
+[19:15:29 INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-157.0, 57.0, 527.0) - (-157.0, 59.0, 531.0)
+[19:18:14 INFO]: CommandBlock at 83,49,559 issued server command: /warp stadium korvallis
+[19:18:18 INFO]: korvallis issued server command: /back
+[19:18:48 INFO]: CommandBlock at 83,49,559 issued server command: /warp stadium korvallis
+[19:22:19 INFO]: korvallis issued server command: /regen
+[19:22:19 INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (111.0, 56.0, 577.0) - (136.0, 63.0, 577.0)
+[19:23:14 INFO]: korvallis issued server command: /set 0
+[19:23:14 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (79.0, 57.0, 575.0) - (110.0, 59.0, 577.0)
+[19:23:58 INFO]: korvallis issued server command: /set 0
+[19:23:58 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (109.0, 38.0, 580.0) - (111.0, 40.0, 643.0)
+[19:24:12 INFO]: korvallis issued server command: /set 0
+[19:24:12 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (109.0, 38.0, 579.0) - (111.0, 59.0, 581.0)
+[19:24:51 INFO]: korvallis issued server command: /set 0
+[19:24:51 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (109.0, 41.0, 579.0) - (111.0, 59.0, 597.0)
+[19:27:38 INFO]: korvallis issued server command: /warp aquaduct
+[19:30:25 INFO]: korvallis lost connection: Disconnected
+[19:30:25 INFO]: korvallis left the game.
+[21:05:19 INFO]: s_mitty[/127.0.0.1:39650] logged in with entity id 139992 at ([kevlar] -31.691249004440497, 77.5, 712.7168167675641)
+[21:05:24 INFO]: s_mitty issued server command: /time set day
+[21:05:57 INFO]: s_mitty issued server command: /setwarp radio
+[21:05:57 INFO]: Creating empty config: /home/mc/old/mc/yold-bukkit/plugins/Essentials/warps/radio.yml
+[21:08:36 INFO]: CommandBlock at 144,66,128 issued server command: /warp lighttower s_mitty
+[21:10:30 INFO]: CommandBlock at 144,66,128 issued server command: /warp lighttower s_mitty
+[21:11:01 INFO]: GroupManager - INFO -  Data files refreshed.
+[21:17:22 INFO]: s_mitty issued server command: /time set day
+[21:44:11 INFO]: s_mitty lost connection: Disconnected
+[21:44:11 INFO]: s_mitty left the game.
+[22:26:44 INFO]: Kevlar[/192.168.0.100:56432] logged in with entity id 220592 at ([kevlar] 76.89589986243033, 44.0, 611.2262922727992)
+[22:30:41 INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[22:30:41 INFO]: Kevlar left the game.
+[22:33:13 INFO]: Kevlar[/192.168.0.100:56618] logged in with entity id 224780 at ([kevlar] 65.1674023240773, 56.0, 611.24884223787)
+[22:34:31 INFO]: Kevlar issued server command: /expand 20
+[22:34:31 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (59.0, 57.0, 610.0) - (59.0, 59.0, 612.0)
+[22:34:33 INFO]: Kevlar issued server command: /set air
+[22:34:33 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (39.0, 57.0, 610.0) - (59.0, 59.0, 612.0)
+[22:34:38 INFO]: Kevlar issued server command: /expand 20
+[22:34:38 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (39.0, 57.0, 610.0) - (59.0, 59.0, 612.0)
+[22:34:40 INFO]: Kevlar issued server command: /set air
+[22:34:40 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (19.0, 57.0, 610.0) - (59.0, 59.0, 612.0)
+[22:34:42 INFO]: Kevlar issued server command: /set air
+[22:34:42 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (19.0, 57.0, 610.0) - (59.0, 59.0, 612.0)
+[22:35:10 INFO]: Kevlar issued server command: /expand 20
+[22:35:10 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (18.0, 57.0, 610.0) - (18.0, 59.0, 612.0)
+[22:35:13 INFO]: Kevlar issued server command: /set air
+[22:35:13 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-2.0, 57.0, 610.0) - (18.0, 59.0, 612.0)
+[22:35:15 INFO]: Kevlar issued server command: /set air
+[22:35:15 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-2.0, 57.0, 610.0) - (18.0, 59.0, 612.0)
+[22:35:16 INFO]: Kevlar issued server command: /set air
+[22:35:16 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-2.0, 57.0, 610.0) - (18.0, 59.0, 612.0)
+[22:35:24 INFO]: Kevlar issued server command: /expand 20
+[22:35:24 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-3.0, 57.0, 610.0) - (-3.0, 59.0, 612.0)
+[22:35:25 INFO]: Kevlar issued server command: /set air
+[22:35:25 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-23.0, 57.0, 610.0) - (-3.0, 59.0, 612.0)
+[22:35:49 INFO]: Kevlar issued server command: /thru
+[22:35:49 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[22:36:21 INFO]: Kevlar issued server command: /undo
+[22:36:21 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[22:36:27 INFO]: Kevlar issued server command: /thru
+[22:36:27 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[22:38:35 INFO]: Kevlar issued server command: /j
+[22:38:35 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[22:45:12 INFO]: Kevlar issued server command: /j
+[22:45:12 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[22:47:42 INFO]: Kevlar issued server command: /j
+[22:47:42 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[22:49:43 INFO]: kevlarina[/127.0.0.1:41254] logged in with entity id 264402 at ([kevlar] 138.5, 66.0, 254.5)
+[22:49:43 INFO]: Creating empty config: /home/mc/old/mc/yold-bukkit/plugins/Essentials/userdata/kevlarina.yml
+[22:49:55 INFO]: Kevlar issued server command: /tp Kevlar
+[22:50:01 INFO]: Kevlar issued server command: /tp kevlarina
+[22:50:06 INFO]: Kevlar issued server command: /time set day
+[22:50:09 INFO]: Kevlar issued server command: /effect Kevlar clear
+[22:50:13 INFO]: Kevlar issued server command: /effect kevlarina
+[22:50:18 INFO]: Kevlar issued server command: /effect kevlarina clear
+[22:50:25 INFO]: Kevlar issued server command: /clear
+[22:50:28 INFO]: Kevlar issued server command: /gm survival kevlar
+[22:50:35 INFO]: Kevlar issued server command: /gm s kevlarina
+[22:51:00 INFO]: Kevlar issued server command: /gm c
+[22:51:01 INFO]: GroupManager - INFO -  Data files refreshed.
+[22:51:02 INFO]: Kevlar issued server command: /gm c kevlarina
+[22:51:35 INFO]: <kevlarina> hi
+[22:51:37 INFO]: Kevlar issued server command: /tp kevlarina
+[22:53:47 INFO]: CommandBlock at 128,63,257 issued server command: /gm c Kevlar
+[22:53:47 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter Kevlar
+[22:54:03 INFO]: Kevlar issued server command: /tp kevlarina
+[22:54:12 INFO]: CommandBlock at 128,63,257 issued server command: /gm c kevlarina
+[22:54:12 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter kevlarina
+[22:54:14 INFO]: CommandBlock at 128,63,257 issued server command: /gm c Kevlar
+[22:54:14 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter Kevlar
+[22:59:15 INFO]: Kevlar issued server command: /tp kevlarina
+[22:59:41 INFO]: Kevlar issued server command: /kill kevlarina
+[22:59:41 INFO]: kevlarina died
+[22:59:51 INFO]: Kevlar issued server command: /tp kevlarina
+[22:59:58 INFO]: CommandBlock at 128,63,257 issued server command: /gm c Kevlar
+[22:59:59 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter kevlarina
+[23:00:01 INFO]: CommandBlock at 128,63,257 issued server command: /gm c Kevlar
+[23:00:01 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter Kevlar
+[23:00:35 INFO]: Kevlar issued server command: /time set day
+[23:00:37 INFO]: Kevlar issued server command: /tp kevlarina
+[23:03:28 INFO]: CommandBlock at 144,66,128 issued server command: /warp lighttower Kevlar
+[23:04:01 INFO]: Kevlar issued server command: /tp kevlarina
+[23:04:18 INFO]: korvallis[/127.0.0.1:41574] logged in with entity id 296136 at ([kevlar] -81.10419798015236, 42.0, 672.4209688845181)
+[23:04:31 INFO]: <korvallis> Hello!
+[23:04:49 INFO]: Kevlar issued server command: /give kevlar minecart 64
+[23:05:03 INFO]: <Kevlar> hi
+[23:06:16 INFO]: Kevlar issued server command: /clear kevlarina
+[23:06:23 INFO]: Kevlar issued server command: /give kevlarina chest 1
+[23:06:37 INFO]: korvallis issued server command: /warp airport
+[23:06:47 INFO]: Kevlar issued server command: /give kevlarina minecart 64
+[23:06:54 INFO]: Kevlar issued server command: /clear kevlarina
+[23:06:55 INFO]: Kevlar issued server command: /give kevlarina minecart 64
+[23:07:21 INFO]: Kevlar issued server command: /peek kevlarina
+[23:09:43 INFO]: Kevlar issued server command: /warp citycenter
+[23:09:47 INFO]: Kevlar issued server command: /tp kevlarina Kevlar
+[23:10:34 INFO]: Kevlar issued server command: /thru
+[23:10:34 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[23:11:01 INFO]: GroupManager - INFO -  Data files refreshed.
+[23:11:53 INFO]: <kevlarina> hey gregory
+[23:12:04 INFO]: <korvallis> hi!
+[23:12:07 INFO]: Kevlar issued server command: /run kevlarina say Kevin and I r having sex rn
+[23:12:12 INFO]: Kevlar issued server command: /op kevlarina
+[23:12:12 INFO]: Kevlar: Opped kevlarina
+[23:12:13 INFO]: Kevlar issued server command: /run kevlarina say Kevin and I r having sex rn
+[23:12:13 INFO]: [kevlarina] Kevin and I r having sex rn
+[23:12:21 INFO]: <kevlarina> no
+[23:12:24 INFO]: <korvallis> my eyes
+[23:12:29 INFO]: Kevlar issued server command: /run kevlarina say Kevn minecraft sex
+[23:12:29 INFO]: [kevlarina] Kevn minecraft sex
+[23:12:30 INFO]: <kevlarina> kevin hacked me
+[23:12:34 INFO]: <kevlarina> stp[
+[23:12:35 INFO]: <korvallis> you made me read that with my own eyes
+[23:12:35 INFO]: <Kevlar> damit\w
+[23:12:36 INFO]: <kevlarina> op
+[23:12:44 INFO]: <kevlarina> ur a h@kr
+[23:12:51 INFO]: korvallis issued server command: /kevlar say penis
+[23:12:56 INFO]: korvallis issued server command: /help
+[23:12:56 INFO]: WorldEdit: korvallis (in "kevlar"): /help
+[23:14:19 INFO]: Kevlar issued server command: /tp kevlarina
+[23:15:57 INFO]: Kevlar issued server command: /thru
+[23:15:57 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[23:17:58 INFO]: korvallis issued server command: /tp kevlar
+[23:18:19 INFO]: <Kevlar> lol halina cant walk
+[23:18:31 INFO]: <Kevlar> pink is what?
+[23:18:34 INFO]: <Kevlar> oh no
+[23:18:37 INFO]: <korvallis> penis
+[23:18:41 INFO]: <Kevlar> lets take her to manncheese
+[23:18:45 INFO]: korvallis issued server command: /yes
+[23:18:48 INFO]: <korvallis> yes\
+[23:18:59 INFO]: korvallis issued server command: /warp mac'n'cheese
+[23:19:04 INFO]: <korvallis> tp to me
+[23:19:43 INFO]: <korvallis> warp nationalpark
+[23:19:47 INFO]: <korvallis> whoops
+[23:19:54 INFO]: korvallis issued server command: /warp national park
+[23:19:54 INFO]: <Kevlar> hold on were still stuck
+[23:20:53 INFO]: korvallis issued server command: / give korvallis command 64
+[23:21:02 INFO]: Kevlar issued server command: /invisible
+[23:21:02 INFO]: korvallis issued server command: /give korvallis 64 1
+[23:21:06 INFO]: Kevlar issued server command: /invis
+[23:21:07 INFO]: Kevlar issued server command: /spy
+[23:21:13 INFO]: Kevlar issued server command: /visible false
+[23:21:17 INFO]: Kevlar issued server command: /setvisible false
+[23:21:28 INFO]: korvallis issued server command: /give korvallis 137 1
+[23:21:57 INFO]: korvallis issued server command: /give korvallis 137 64
+[23:22:02 INFO]: Kevlar issued server command: /clear
+[23:22:19 INFO]: korvallis issued server command: /set 137
+[23:22:19 INFO]: WorldEdit: korvallis (in "kevlar"): /set 137 - Region: (-10109.0, 119.0, -10048.0) - (-10109.0, 119.0, -10048.0)
+[23:22:31 INFO]: Kevlar issued server command: /effect kevlar clear
+[23:22:56 INFO]: Kevlar issued server command: /toggledownfall
+[23:22:56 INFO]: Kevlar: Toggling downfall off for world 'kevlar'
+[23:22:57 INFO]: Kevlar issued server command: /time set day
+[23:23:08 INFO]: korvallis issued server command: /setwarp nationalpark
+[23:23:11 INFO]: CommandBlock at -10,109,119,-10,048 issued server command: /warp citycenter
+[23:23:18 INFO]: CommandBlock at -10,109,119,-10,048 issued server command: /warp citycenter
+[23:23:29 INFO]: Kevlar issued server command: /tp korvallis
+[23:23:47 INFO]: Kevlar issued server command: /t korvallis r u adding a warp here
+[23:23:50 INFO]: Kevlar issued server command: /back
+[23:23:54 INFO]: <korvallis> yes
+[23:24:01 INFO]: <korvallis> it got removed
+[23:24:07 INFO]: <Kevlar> how do we get to the ntional park
+[23:24:16 INFO]: <korvallis> warp nationalpark
+[23:24:23 INFO]: <korvallis> then walk on trail
+[23:24:28 INFO]: Kevlar issued server command: /warp nationalpark kevlarina
+[23:24:31 INFO]: <korvallis> or warp mac'n'cheese
+[23:24:31 INFO]: Kevlar issued server command: /warp nationalpark kevlar
+[23:24:50 INFO]: <Kevlar> halinas on the traio
+[23:25:04 INFO]: <korvallis> lmaoo
+[23:25:23 INFO]: Kevlar issued server command: /t korvallis doesnt seee it yet
+[23:25:43 INFO]: <Kevlar> "damn, this is pretty nice"
+[23:25:49 INFO]: <Kevlar> she doest see it
+[23:25:54 INFO]: <korvallis> rip
+[23:25:59 INFO]: <korvallis> brb getting food
+[23:26:01 INFO]: korvallis lost connection: Disconnected
+[23:26:01 INFO]: korvallis left the game.
+[23:27:12 INFO]: Kevlar issued server command: /warp airport
+[23:27:18 INFO]: Kevlar issued server command: /tp kevlarina Kevlar
+[23:29:56 INFO]: Kevlar issued server command: /thru
+[23:29:56 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[23:29:59 INFO]: Kevlar issued server command: /thru
+[23:29:59 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[23:33:27 INFO]: Kevlar issued server command: /tp kevlarina
+[23:34:02 INFO]: Kevlar issued server command: /time set day
+[23:45:24 INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[23:45:24 INFO]: Kevlar left the game.
+[23:45:53 INFO]: <kevlarina> bye gregory
+[23:45:59 INFO]: kevlarina lost connection: Disconnected
+[23:45:59 INFO]: kevlarina left the game.
+[02:00:12 INFO]: MickeyAndPluto[/127.0.0.1:45120] logged in with entity id 360928 at ([kevlar] 406.66526382606406, 75.54040519445257, 551.5139085686917)
+[02:01:02 INFO]: MickeyAndPluto lost connection: Disconnected
+[02:01:02 INFO]: MickeyAndPluto left the game.
+[02:01:07 INFO]: MickeyAndPluto[/127.0.0.1:45126] logged in with entity id 364481 at ([kevlar] 169.81172240653171, 69.76374563556914, 570.2566045561731)
+[02:01:15 INFO]: MickeyAndPluto lost connection: Disconnected
+[02:01:15 INFO]: MickeyAndPluto left the game.
+[02:04:53 INFO]: korvallis[/127.0.0.1:45230] logged in with entity id 366568 at ([kevlar] -10000.598858188838, 113.9135509565246, -9983.205345505316)
+[02:05:03 INFO]: korvallis issued server command: /warp airport
+[02:14:31 INFO]: korvallis issued server command: /regen
+[02:14:31 INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-147.0, 49.0, 704.0) - (-144.0, 50.0, 747.0)
+[02:14:47 INFO]: korvallis issued server command: /regen
+[02:14:47 INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-144.0, 49.0, 742.0) - (-98.0, 50.0, 746.0)
+[02:21:01 INFO]: GroupManager - INFO -  Data files refreshed.
+[02:21:20 INFO]: korvallis issued server command: /killallmobs
+[02:21:26 INFO]: korvallis issued server command: /killall mobs
+[02:21:36 INFO]: korvallis issued server command: /killall monsters
+[02:21:48 INFO]: korvallis issued server command: /killall pigmen
+[02:21:59 INFO]: korvallis issued server command: /killall mobs
+[02:22:10 INFO]: CommandBlock at 144,66,128 issued server command: /warp lighttower korvallis
+[02:22:14 INFO]: mnimk[/127.0.0.1:45568] logged in with entity id 384586 at ([kevlar] 129.5, 65.0, 263.5)
+[02:22:14 INFO]: Creating empty config: /home/mc/old/mc/yold-bukkit/plugins/Essentials/userdata/mnimk.yml
+[02:22:28 INFO]: CommandBlock at 128,63,257 issued server command: /gm c mnimk
+[02:22:29 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter mnimk
+[02:27:12 INFO]: korvallis issued server command: /toggledownfall
+[02:27:12 INFO]: korvallis: Toggling downfall off for world 'kevlar'
+[02:27:41 INFO]: korvallis issued server command: /thru
+[02:27:41 INFO]: WorldEdit: korvallis (in "kevlar"): thru
+[02:28:47 INFO]: korvallis lost connection: Disconnected
+[02:28:47 INFO]: korvallis left the game.
+[02:31:01 INFO]: GroupManager - INFO -  Data files refreshed.
+[02:38:59 INFO]: mnimk lost connection: Disconnected
+[02:38:59 INFO]: mnimk left the game.
+[03:58:36 INFO]: s_mitty[/127.0.0.1:46722] logged in with entity id 416351 at ([kevlar] -144.30862289849546, 93.73901677465356, 765.7559512024834)
+[04:01:11 INFO]: s_mitty issued server command: /warp airport
+[04:04:20 INFO]: s_mitty issued server command: /give 64 minecart
+[04:04:35 INFO]: s_mitty issued server command: /give s_mitty 64 minecart
+[04:04:57 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:04 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:05 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:06 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:07 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:18 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:19 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:19 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:20 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:29 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:30 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:30 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:31 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:31 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:32 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:33 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:33 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:05:34 INFO]: s_mitty issued server command: /give s_mitty minecart 64
+[04:08:25 INFO]: s_mitty issued server command: /copy
+[04:08:25 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[04:08:34 INFO]: s_mitty issued server command: /paste
+[04:08:34 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-192.0, 72.0, 554.0)
+[04:09:03 INFO]: s_mitty issued server command: /paste
+[04:09:03 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-192.0, 72.0, 574.0)
+[04:09:18 INFO]: s_mitty issued server command: /paste
+[04:09:18 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-192.0, 72.0, 579.0)
+[04:09:27 INFO]: s_mitty issued server command: /paste
+[04:09:27 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-192.0, 72.0, 584.0)
+[04:10:28 INFO]: s_mitty issued server command: /set quartz
+[04:10:28 INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-212.0, 64.0, 605.0) - (-209.0, 66.0, 605.0)
+[04:31:29 INFO]: s_mitty lost connection: Disconnected
+[04:31:29 INFO]: s_mitty left the game.
+[17:32:09 INFO]: TheeKnightHawk[/127.0.0.1:57314] logged in with entity id 449989 at ([kevlar] 137.5, 69.0, 263.5)
+[17:32:09 INFO]: Creating empty config: /home/mc/old/mc/yold-bukkit/plugins/Essentials/userdata/theeknighthawk.yml
+[17:34:39 INFO]: TheeKnightHawk lost connection: Disconnected
+[17:34:39 INFO]: TheeKnightHawk left the game.
+[17:41:01 INFO]: GroupManager - INFO -  Data files refreshed.
+[05:16:32 INFO]: Kevlar[/192.168.0.100:51218] logged in with entity id 454838 at ([kevlar] 346.3773848777012, 58.0, 440.3405494021635)
+[05:16:51 INFO]: Kevlar issued server command: /thru
+[05:16:51 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:16:56 INFO]: Kevlar lost connection: Disconnected
+[05:16:56 INFO]: Kevlar left the game.
+[20:41:19 INFO]: s_mitty[/127.0.0.1:50066] logged in with entity id 455356 at ([kevlar] -324.76846941086416, 110.18973840159812, 480.03210927800154)
+[20:45:35 INFO]: s_mitty lost connection: Disconnected
+[20:45:35 INFO]: s_mitty left the game.
+[18:42:24 INFO]: s_mitty[/127.0.0.1:38956] logged in with entity id 470020 at ([kevlar] -109.03891931783335, 122.3568442209082, 736.7619723657972)
+[19:13:12 INFO]: s_mitty lost connection: Timed out
+[19:13:12 INFO]: s_mitty left the game.
+[19:13:34 INFO]: s_mitty[/127.0.0.1:39352] logged in with entity id 497395 at ([kevlar] -147.3295390708856, 87.0, 765.2728528414481)
+[19:14:36 INFO]: s_mitty lost connection: You logged in from another location
+[19:14:36 INFO]: s_mitty left the game.
+[19:14:36 INFO]: s_mitty[/127.0.0.1:39356] logged in with entity id 498379 at ([kevlar] -147.3295390708856, 87.0, 765.2728528414481)
+[19:33:30 INFO]: CommandBlock at -55,96,648 issued server command: /warp top s_mitty
+[19:49:03 INFO]: s_mitty issued server command: /give s_mitty coal 64
+[19:59:17 INFO]: s_mitty lost connection: Disconnected
+[19:59:17 INFO]: s_mitty left the game.
+[22:58:50 INFO]: s_mitty[/127.0.0.1:42178] logged in with entity id 545364 at ([kevlar] -16.30999186247533, 67.0, 716.2081651007343)
+[23:00:27 INFO]: s_mitty issued server command: /warp hospital
+[23:00:32 INFO]: s_mitty issued server command: /warp church
+[23:02:27 INFO]: s_mitty issued server command: /copy
+[23:02:27 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[23:02:32 INFO]: s_mitty issued server command: /paste
+[23:02:32 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-36.0, 97.0, 604.0)
+[23:02:47 INFO]: s_mitty issued server command: /unso
+[23:02:55 INFO]: s_mitty issued server command: /undo
+[23:02:55 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[23:04:05 INFO]: s_mitty issued server command: /copy
+[23:04:05 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[23:04:13 INFO]: s_mitty issued server command: /paste
+[23:04:13 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-32.0, 103.0, 601.0)
+[23:04:31 INFO]: s_mitty issued server command: /paste
+[23:04:31 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-32.0, 98.0, 601.0)
+[23:04:43 INFO]: s_mitty issued server command: /paste
+[23:04:43 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-32.0, 93.0, 601.0)
+[23:30:55 INFO]: s_mitty lost connection: Timed out
+[23:30:55 INFO]: s_mitty left the game.
+[00:59:09 INFO]: s_mitty[/127.0.0.1:44258] logged in with entity id 588865 at ([kevlar] -51.292344173689855, 124.58597027474241, 641.1045186670311)
+[01:19:47 INFO]: s_mitty lost connection: Disconnected
+[01:19:47 INFO]: s_mitty left the game.
