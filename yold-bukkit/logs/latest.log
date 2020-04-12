@@ -1,3 +1,541 @@
-[00:59:09] [Server thread/INFO]: s_mitty[/127.0.0.1:44258] logged in with entity id 588865 at ([kevlar] -51.292344173689855, 124.58597027474241, 641.1045186670311)
-[01:19:47] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[01:19:47] [Server thread/INFO]: s_mitty left the game.
+[00:00:43] [Server thread/INFO]: s_mitty issued server command: /cut
+[00:00:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-269.0, 63.0, 407.0) - (-265.0, 70.0, 413.0)
+[00:01:29] [Server thread/INFO]: s_mitty issued server command: /cut
+[00:01:29] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-296.0, 90.0, 375.0) - (-284.0, 98.0, 388.0)
+[00:02:06] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[00:02:06] [Server thread/INFO]: s_mitty left the game.
+[00:54:00] [Server thread/INFO]: s_mitty[/127.0.0.1:34556] logged in with entity id 69656 at ([kevlar] -275.1127077343604, 94.3428969864484, 362.0843613802269)
+[01:01:50] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:01:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-371.0, 61.0, 477.0) - (-355.0, 76.0, 487.0)
+[01:02:16] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:02:16] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-417.0, 62.0, 525.0)
+[01:03:35] [Server thread/INFO]: s_mitty issued server command: /time set day
+[01:03:51] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:03:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-359.0, 62.0, 408.0) - (-347.0, 63.0, 428.0)
+[01:04:01] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:04:01] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-359.0, 62.0, 408.0) - (-347.0, 70.0, 427.0)
+[01:06:08] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:06:08] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-357.0, 60.0, 441.0) - (-297.0, 99.0, 462.0)
+[01:06:18] [Server thread/INFO]: s_mitty issued server command: /rotate 90
+[01:06:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[01:06:27] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:06:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-389.0, 63.0, 433.0)
+[01:06:36] [Server thread/INFO]: s_mitty issued server command: /undo
+[01:06:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[01:06:40] [Server thread/INFO]: s_mitty issued server command: /rotate 180
+[01:06:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 180
+[01:06:46] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:06:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-389.0, 63.0, 433.0)
+[01:14:50] [Server thread/INFO]: s_mitty issued server command: /time set day
+[01:17:27] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:17:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-331.0, 87.0, 370.0) - (-312.0, 91.0, 392.0)
+[01:17:45] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:17:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-337.0, 86.0, 370.0) - (-312.0, 91.0, 408.0)
+[01:18:25] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:18:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-311.0, 86.0, 372.0) - (-288.0, 89.0, 397.0)
+[01:18:40] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:18:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-311.0, 86.0, 370.0) - (-286.0, 89.0, 397.0)
+[01:19:12] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:19:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-299.0, 89.0, 370.0) - (-286.0, 90.0, 374.0)
+[01:19:22] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:19:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-311.0, 90.0, 374.0) - (-299.0, 90.0, 380.0)
+[01:19:47] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:19:47] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-285.0, 86.0, 376.0) - (-283.0, 89.0, 388.0)
+[01:21:17] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:21:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-314.0, 86.0, 365.0) - (-305.0, 99.0, 374.0)
+[01:21:31] [Server thread/INFO]: s_mitty issued server command: /et air
+[01:21:36] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:21:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-325.0, 86.0, 366.0) - (-315.0, 88.0, 369.0)
+[01:22:34] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[01:22:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-344.0, 85.0, 380.0) - (-316.0, 86.0, 409.0)
+[01:22:49] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[01:22:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-344.0, 85.0, 380.0) - (-287.0, 86.0, 390.0)
+[01:22:58] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[01:22:58] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-344.0, 85.0, 368.0) - (-291.0, 86.0, 380.0)
+[01:23:08] [Server thread/INFO]: s_mitty issued server command: /flora
+[01:23:08] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-344.0, 85.0, 368.0) - (-291.0, 86.0, 380.0)
+[01:25:09] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[01:25:09] [Server thread/INFO]: s_mitty left the game.
+[01:25:58] [Server thread/INFO]: s_mitty[/127.0.0.1:35146] logged in with entity id 96827 at ([kevlar] -295.465040073681, 102.01047656506775, 390.11810940593955)
+[01:26:13] [Server thread/INFO]: s_mitty issued server command: /time set day
+[01:28:25] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:28:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-376.0, 62.0, 552.0) - (-350.0, 72.0, 587.0)
+[01:28:59] [Server thread/INFO]: s_mitty issued server command: /set water
+[01:28:59] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-374.0, 60.0, 551.0) - (-347.0, 62.0, 588.0)
+[01:31:51] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:31:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-349.0, 59.0, 552.0) - (-331.0, 63.0, 580.0)
+[01:31:59] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:31:59] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-377.0, 63.0, 574.0)
+[01:32:43] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:32:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-337.0, 64.0, 554.0) - (-331.0, 64.0, 571.0)
+[01:32:53] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:32:53] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-362.0, 65.0, 557.0)
+[01:33:49] [Server thread/INFO]: s_mitty issued server command: /set water
+[01:33:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-350.0, 59.0, 550.0) - (-330.0, 62.0, 581.0)
+[01:34:12] [Server thread/INFO]: s_mitty issued server command: /set water
+[01:34:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-349.0, 60.0, 543.0) - (-333.0, 60.0, 549.0)
+[01:37:54] [Server thread/INFO]: s_mitty issued server command: /copy
+[01:37:54] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[01:38:32] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:38:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-296.0, 64.0, 490.0)
+[01:39:14] [Server thread/INFO]: s_mitty issued server command: /undow
+[01:39:28] [Server thread/INFO]: s_mitty issued server command: /undo
+[01:39:28] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[01:39:33] [Server thread/INFO]: s_mitty issued server command: /time set day
+[01:39:59] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:39:59] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-310.0, 64.0, 490.0)
+[01:40:42] [Server thread/INFO]: s_mitty issued server command: /set stone
+[01:40:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-309.0, 62.0, 490.0) - (-275.0, 63.0, 621.0)
+[01:40:51] [Server thread/INFO]: s_mitty issued server command: /set grass
+[01:40:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-309.0, 62.0, 490.0) - (-275.0, 63.0, 621.0)
+[01:47:31] [Server thread/INFO]: s_mitty issued server command: /set air\
+[01:47:31] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air\ - Region: (-303.0, 64.0, 559.0) - (-278.0, 66.0, 615.0)
+[01:47:34] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:47:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-303.0, 64.0, 559.0) - (-278.0, 66.0, 615.0)
+[01:47:43] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:47:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-307.0, 64.0, 559.0) - (-278.0, 69.0, 616.0)
+[01:49:43] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:49:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-317.0, 62.0, 624.0) - (-311.0, 71.0, 630.0)
+[01:50:18] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:50:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-308.0, 64.0, 612.0) - (-281.0, 79.0, 641.0)
+[01:50:36] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:50:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-280.0, 64.0, 617.0) - (-273.0, 64.0, 635.0)
+[01:50:40] [Server thread/INFO]: s_mitty issued server command: /time set day
+[01:52:27] [Server thread/INFO]: s_mitty issued server command: /set grass
+[01:52:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-308.0, 63.0, 607.0) - (-276.0, 63.0, 641.0)
+[02:06:19] [Server thread/INFO]: s_mitty issued server command: /time set day
+[02:11:42] [Server thread/INFO]: s_mitty issued server command: /copy
+[02:11:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[02:11:53] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:11:53] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-310.0, 64.0, 621.0)
+[02:13:20] [Server thread/INFO]: s_mitty issued server command: /set air
+[02:13:20] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-294.0, 64.0, 551.0) - (-288.0, 69.0, 557.0)
+[02:13:45] [Server thread/INFO]: s_mitty issued server command: /set stone
+[02:13:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-309.0, 63.0, 614.0) - (-275.0, 63.0, 621.0)
+[02:14:13] [Server thread/INFO]: s_mitty issued server command: /copy
+[02:14:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[02:14:19] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:14:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-275.0, 64.0, 614.0)
+[02:14:35] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:14:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-309.0, 64.0, 614.0)
+[02:15:19] [Server thread/INFO]: s_mitty issued server command: /copy
+[02:15:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[02:15:38] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:15:38] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-275.0, 64.0, 490.0)
+[02:16:11] [Server thread/INFO]: s_mitty issued server command: /set grass
+[02:16:11] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-308.0, 63.0, 490.0) - (-276.0, 63.0, 490.0)
+[02:16:31] [Server thread/INFO]: s_mitty issued server command: /set grass
+[02:16:31] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-309.0, 62.0, 489.0) - (-275.0, 62.0, 489.0)
+[02:16:43] [Server thread/INFO]: s_mitty issued server command: /set grass
+[02:16:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-264.0, 62.0, 489.0) - (-226.0, 62.0, 489.0)
+[02:17:15] [Server thread/INFO]: s_mitty issued server command: /set fence
+[02:17:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set fence - Region: (-309.0, 64.0, 490.0) - (-276.0, 64.0, 490.0)
+[02:17:59] [Server thread/INFO]: s_mitty issued server command: /time set day
+[02:19:37] [Server thread/INFO]: s_mitty issued server command: /set stone
+[02:19:37] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-308.0, 63.0, 498.0) - (-276.0, 63.0, 498.0)
+[02:20:01] [Server thread/INFO]: s_mitty issued server command: /killall slime
+[02:21:49] [Server thread/INFO]: s_mitty issued server command: /set gold
+[02:21:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-309.0, 63.0, 497.0) - (-275.0, 63.0, 497.0)
+[02:22:10] [Server thread/INFO]: s_mitty issued server command: /set gold
+[02:22:10] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-308.0, 63.0, 492.0) - (-276.0, 63.0, 492.0)
+[02:23:51] [Server thread/INFO]: s_mitty issued server command: /set stone
+[02:23:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-308.0, 63.0, 613.0) - (-276.0, 63.0, 613.0)
+[02:24:09] [Server thread/INFO]: s_mitty issued server command: /set gold
+[02:24:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-308.0, 63.0, 614.0) - (-276.0, 63.0, 614.0)
+[02:24:18] [Server thread/INFO]: s_mitty issued server command: /set gold
+[02:24:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-308.0, 63.0, 620.0) - (-276.0, 63.0, 620.0)
+[02:30:49] [Server thread/INFO]: s_mitty issued server command: /copy
+[02:30:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[02:31:05] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:31:05] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-309.0, 64.0, 613.0)
+[02:31:50] [Server thread/INFO]: s_mitty issued server command: /set fence
+[02:31:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set fence - Region: (-309.0, 63.0, 463.0) - (-309.0, 63.0, 489.0)
+[02:32:09] [Server thread/INFO]: s_mitty issued server command: /copy
+[02:32:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[02:32:20] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:32:20] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-309.0, 64.0, 490.0)
+[02:32:55] [Server thread/INFO]: s_mitty issued server command: /set fence
+[02:32:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set fence - Region: (-319.0, 63.0, 463.0) - (-319.0, 63.0, 489.0)
+[02:33:06] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:33:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-319.0, 64.0, 490.0)
+[02:33:49] [Server thread/INFO]: s_mitty issued server command: /set grass
+[02:33:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-319.0, 62.0, 490.0) - (-319.0, 63.0, 634.0)
+[02:34:11] [Server thread/INFO]: s_mitty issued server command: /set grass
+[02:34:11] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-319.0, 63.0, 622.0) - (-310.0, 63.0, 634.0)
+[02:34:39] [Server thread/INFO]: s_mitty issued server command: /copy
+[02:34:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[02:34:45] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:34:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-319.0, 64.0, 499.0)
+[02:39:55] [Server thread/INFO]: s_mitty issued server command: /copy
+[02:39:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[02:40:00] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:40:00] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-310.0, 64.0, 610.0)
+[02:40:27] [Server thread/INFO]: s_mitty issued server command: /undo
+[02:40:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[02:40:36] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:40:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-310.0, 64.0, 610.0)
+[02:40:58] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:40:58] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-310.0, 64.0, 609.0)
+[02:42:14] [Server thread/INFO]: s_mitty issued server command: /set grass
+[02:42:14] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-318.0, 63.0, 610.0) - (-310.0, 63.0, 621.0)
+[02:51:22] [Server thread/INFO]: s_mitty issued server command: /time set day
+[02:51:32] [Server thread/INFO]: s_mitty issued server command: /weather cear
+[02:51:40] [Server thread/INFO]: CommandBlock at -211,87,621 issued server command: /warp walls s_mitty
+[02:52:03] [Server thread/INFO]: s_mitty issued server command: /warp airport
+[02:52:07] [Server thread/WARN]: s_mitty moved too quickly! 10.199999988079071,-1.1896000476837116,-2.8419100080380986 (10.199999988079071, 1.1896000476837116, 2.8419100080380986)
+[02:55:47] [Server thread/INFO]: s_mitty issued server command: /cut
+[02:55:47] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-308.0, 63.0, 497.0) - (-276.0, 63.0, 498.0)
+[02:55:50] [Server thread/INFO]: s_mitty issued server command: /paste
+[02:55:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-309.0, 64.0, 499.0)
+[02:56:06] [Server thread/INFO]: s_mitty issued server command: /set stone
+[02:56:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-308.0, 63.0, 497.0) - (-276.0, 63.0, 497.0)
+[03:04:15] [Server thread/INFO]: s_mitty issued server command: /set air
+[03:04:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-314.0, 56.0, 436.0) - (-314.0, 60.0, 436.0)
+[03:10:46] [Server thread/INFO]: s_mitty issued server command: /time set day
+[03:12:06] [Server thread/INFO]: s_mitty issued server command: /set stone
+[03:12:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-309.0, 63.0, 561.0) - (-276.0, 63.0, 570.0)
+[03:12:21] [Server thread/INFO]: s_mitty issued server command: /set gold
+[03:12:21] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-309.0, 63.0, 569.0) - (-275.0, 63.0, 569.0)
+[03:12:38] [Server thread/INFO]: s_mitty issued server command: /set gold
+[03:12:38] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-308.0, 63.0, 562.0) - (-276.0, 63.0, 562.0)
+[03:13:51] [Server thread/INFO]: s_mitty issued server command: /set grass
+[03:13:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-309.0, 63.0, 561.0) - (-275.0, 63.0, 561.0)
+[03:14:00] [Server thread/INFO]: s_mitty issued server command: /set stone
+[03:14:00] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-308.0, 63.0, 562.0) - (-276.0, 63.0, 562.0)
+[03:14:08] [Server thread/INFO]: s_mitty issued server command: /set gold
+[03:14:08] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-309.0, 63.0, 563.0) - (-276.0, 63.0, 563.0)
+[03:21:04] [Server thread/INFO]: s_mitty issued server command: /replace air stone
+[03:21:04] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air stone - Region: (-309.0, 63.0, 579.0) - (-275.0, 63.0, 600.0)
+[03:30:29] [Server thread/INFO]: s_mitty issued server command: /replace air stone
+[03:30:29] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air stone - Region: (-308.0, 63.0, 531.0) - (-278.0, 63.0, 567.0)
+[03:30:59] [Server thread/INFO]: s_mitty issued server command: /killall creeper
+[04:20:09] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:20:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-328.0, 64.0, 621.0) - (-298.0, 87.0, 661.0)
+[04:20:36] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:20:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-297.0, 64.0, 632.0) - (-278.0, 81.0, 658.0)
+[04:20:51] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:20:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:21:38] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:21:38] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-298.0, 64.0, 637.0) - (-287.0, 79.0, 653.0)
+[04:21:43] [Server thread/INFO]: s_mitty issued server command: /time set day
+[04:28:12] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:28:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-328.0, 63.0, 632.0) - (-289.0, 63.0, 661.0)
+[04:28:35] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:28:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-328.0, 64.0, 660.0) - (-298.0, 68.0, 661.0)
+[04:28:46] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[04:28:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-328.0, 64.0, 660.0) - (-298.0, 68.0, 661.0)
+[04:32:53] [Server thread/INFO]: s_mitty issued server command: /time set day
+[04:33:12] [Server thread/INFO]: s_mitty issued server command: /set ait
+[04:33:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set ait - Region: (-297.0, 64.0, 654.0) - (-289.0, 69.0, 659.0)
+[04:33:15] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:33:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-297.0, 64.0, 654.0) - (-289.0, 69.0, 659.0)
+[04:34:09] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:34:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-347.0, 82.0, 651.0) - (-346.0, 88.0, 656.0)
+[04:37:09] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:37:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-328.0, 69.0, 642.0) - (-289.0, 69.0, 659.0)
+[04:37:44] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:37:44] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-328.0, 64.0, 659.0) - (-289.0, 68.0, 659.0)
+[04:37:51] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:37:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-289.0, 64.0, 642.0) - (-289.0, 68.0, 659.0)
+[04:38:01] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:38:01] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-328.0, 64.0, 642.0) - (-328.0, 68.0, 659.0)
+[04:39:23] [Server thread/INFO]: s_mitty issued server command: /cut
+[04:39:23] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-289.0, 64.0, 642.0) - (-289.0, 69.0, 658.0)
+[04:39:27] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:39:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-292.0, 64.0, 658.0)
+[04:39:36] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:39:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-289.0, 69.0, 642.0) - (-288.0, 69.0, 659.0)
+[04:40:00] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:40:00] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-296.0, 64.0, 642.0) - (-296.0, 68.0, 659.0)
+[04:40:15] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:40:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-304.0, 64.0, 642.0) - (-304.0, 68.0, 659.0)
+[04:40:50] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:40:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-296.0, 64.0, 642.0) - (-296.0, 68.0, 658.0)
+[04:42:09] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:42:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-312.0, 64.0, 642.0) - (-304.0, 69.0, 642.0)
+[04:42:25] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:42:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-312.0, 64.0, 642.0) - (-312.0, 68.0, 659.0)
+[04:46:18] [Server thread/INFO]: s_mitty issued server command: /set stonebricks
+[04:46:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebricks - Region: (-326.0, 64.0, 640.0) - (-317.0, 69.0, 640.0)
+[04:46:21] [Server thread/INFO]: s_mitty issued server command: /set stonebrick
+[04:46:21] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-326.0, 64.0, 640.0) - (-317.0, 69.0, 640.0)
+[04:46:30] [Server thread/INFO]: s_mitty issued server command: /set stoneslab
+[04:46:30] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stoneslab - Region: (-326.0, 64.0, 640.0) - (-317.0, 69.0, 640.0)
+[04:46:43] [Server thread/INFO]: s_mitty issued server command: /set doublestoneslab
+[04:46:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set doublestoneslab - Region: (-326.0, 64.0, 640.0) - (-317.0, 69.0, 640.0)
+[04:46:59] [Server thread/INFO]: s_mitty issued server command: /set doublestoneslab
+[04:46:59] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set doublestoneslab - Region: (-325.0, 63.0, 639.0) - (-314.0, 69.0, 640.0)
+[04:47:08] [Server thread/INFO]: s_mitty issued server command: /set doublestoneslab
+[04:47:08] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set doublestoneslab - Region: (-326.0, 63.0, 639.0) - (-314.0, 69.0, 640.0)
+[04:47:17] [Server thread/INFO]: s_mitty issued server command: /time set day
+[04:47:43] [Server thread/INFO]: s_mitty issued server command: /set stone
+[04:47:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-303.0, 63.0, 641.0) - (-289.0, 63.0, 658.0)
+[04:48:07] [Server thread/INFO]: s_mitty issued server command: /set stone
+[04:48:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-302.0, 63.0, 622.0) - (-290.0, 63.0, 640.0)
+[04:48:33] [Server thread/INFO]: s_mitty issued server command: /set stone
+[04:48:33] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-314.0, 63.0, 629.0) - (-302.0, 63.0, 638.0)
+[04:48:46] [Server thread/INFO]: s_mitty issued server command: /set stone
+[04:48:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-326.0, 63.0, 629.0) - (-314.0, 63.0, 638.0)
+[04:48:57] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:48:57] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-328.0, 63.0, 622.0) - (-319.0, 63.0, 628.0)
+[04:49:55] [Server thread/INFO]: s_mitty issued server command: /copy
+[04:49:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[04:50:04] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:50:04] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-314.0, 64.0, 587.0)
+[04:50:18] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:50:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:50:25] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:50:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-310.0, 64.0, 588.0)
+[04:50:29] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:50:29] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:50:34] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:50:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-314.0, 64.0, 588.0)
+[04:51:31] [Server thread/INFO]: s_mitty issued server command: /copy
+[04:51:31] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[04:51:39] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:51:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-314.0, 64.0, 609.0)
+[04:51:47] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:51:47] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:51:53] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:51:53] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-311.0, 64.0, 609.0)
+[04:51:56] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:51:56] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:52:01] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:52:01] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-314.0, 64.0, 610.0)
+[04:52:10] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:52:10] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-314.0, 64.0, 600.0)
+[04:53:14] [Server thread/INFO]: s_mitty issued server command: /copy
+[04:53:14] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[04:53:22] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:53:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-314.0, 64.0, 576.0)
+[04:54:14] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:54:14] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-318.0, 63.0, 609.0) - (-310.0, 63.0, 621.0)
+[04:54:55] [Server thread/INFO]: s_mitty issued server command: /copy
+[04:54:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[04:55:02] [Server thread/INFO]: s_mitty issued server command: /paste
+[04:55:02] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-309.0, 64.0, 608.0)
+[04:55:12] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:55:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-309.0, 63.0, 580.0) - (-275.0, 63.0, 599.0)
+[04:56:19] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:56:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-313.0, 63.0, 619.0) - (-276.0, 63.0, 622.0)
+[04:56:39] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:56:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-275.0, 63.0, 619.0) - (-275.0, 63.0, 621.0)
+[04:58:12] [Server thread/INFO]: s_mitty issued server command: /set grass
+[04:58:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-302.0, 63.0, 623.0) - (-290.0, 63.0, 628.0)
+[05:01:55] [Server thread/INFO]: s_mitty issued server command: /set stone
+[05:01:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-300.0, 63.0, 613.0) - (-292.0, 63.0, 628.0)
+[05:02:16] [Server thread/INFO]: s_mitty issued server command: /set gold
+[05:02:16] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-299.0, 63.0, 610.0) - (-299.0, 63.0, 628.0)
+[05:02:24] [Server thread/INFO]: s_mitty issued server command: /set gold
+[05:02:24] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set gold - Region: (-293.0, 63.0, 612.0) - (-293.0, 63.0, 628.0)
+[05:06:02] [Server thread/INFO]: s_mitty issued server command: /time set day
+[05:06:12] [Server thread/INFO]: s_mitty issued server command: /weater clear
+[05:06:21] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[05:06:45] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:06:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-327.0, 70.0, 643.0) - (-289.0, 70.0, 658.0)
+[05:12:41] [Server thread/INFO]: s_mitty issued server command: /cut
+[05:12:41] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-299.0, 64.0, 643.0) - (-293.0, 66.0, 651.0)
+[05:12:50] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:12:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-293.0, 65.0, 643.0)
+[05:14:17] [Server thread/INFO]: s_mitty issued server command: /duni
+[05:14:25] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:14:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:14:33] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:14:33] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-293.0, 65.0, 642.0)
+[05:14:37] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:14:37] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:14:43] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:14:43] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-293.0, 65.0, 643.0)
+[05:14:53] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:14:53] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:14:59] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:14:59] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-293.0, 64.0, 643.0)
+[05:15:25] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:15:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:15:33] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:15:33] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-292.0, 64.0, 643.0)
+[05:16:01] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:16:01] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:16:10] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:16:11] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-293.0, 65.0, 643.0)
+[05:16:17] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:16:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:16:22] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:16:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-293.0, 64.0, 643.0)
+[05:16:59] [Server thread/INFO]: s_mitty issued server command: /time set day
+[05:20:04] [Server thread/INFO]: s_mitty issued server command: /copy
+[05:20:04] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[05:20:15] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:20:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-308.0, 64.0, 630.0)
+[05:20:21] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:20:21] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:21:28] [Server thread/INFO]: s_mitty issued server command: /copy
+[05:21:28] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[05:21:40] [Server thread/INFO]: s_mitty issued server command: /paste
+[05:21:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-287.0, 64.0, 641.0)
+[05:22:18] [Server thread/INFO]: s_mitty issued server command: /set air
+[05:22:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-285.0, 64.0, 636.0) - (-269.0, 68.0, 637.0)
+[05:22:59] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:22:59] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-285.0, 64.0, 655.0) - (-270.0, 69.0, 656.0)
+[05:23:15] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:23:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-286.0, 64.0, 641.0) - (-286.0, 68.0, 654.0)
+[05:24:04] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:24:04] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-288.0, 69.0, 642.0) - (-286.0, 69.0, 657.0)
+[05:24:23] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:24:23] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-289.0, 70.0, 643.0) - (-285.0, 70.0, 658.0)
+[05:26:35] [Server thread/INFO]: s_mitty issued server command: /cuttrees
+[05:26:39] [Server thread/INFO]: s_mitty issued server command: /cut_trees
+[05:28:41] [Server thread/INFO]: s_mitty issued server command: /deltree
+[05:28:41] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): deltree
+[05:28:53] [Server thread/INFO]: s_mitty issued server command: /deltree
+[05:28:53] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): deltree
+[05:29:11] [Server thread/INFO]: s_mitty issued server command: /time set day
+[05:32:31] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:32:31] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-327.0, 70.0, 642.0) - (-270.0, 70.0, 643.0)
+[05:32:38] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:32:38] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-327.0, 70.0, 642.0) - (-270.0, 70.0, 658.0)
+[05:33:33] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:33:33] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-329.0, 68.0, 642.0) - (-329.0, 68.0, 649.0)
+[05:33:47] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:33:47] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-329.0, 68.0, 642.0) - (-329.0, 69.0, 663.0)
+[05:33:57] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:33:57] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-330.0, 68.0, 641.0) - (-330.0, 68.0, 650.0)
+[05:34:14] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:34:14] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-328.0, 70.0, 642.0) - (-328.0, 70.0, 661.0)
+[05:34:30] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:34:30] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-328.0, 69.0, 660.0) - (-297.0, 69.0, 660.0)
+[05:34:42] [Server thread/INFO]: s_mitty issued server command: /set grass
+[05:34:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-328.0, 70.0, 659.0) - (-287.0, 70.0, 659.0)
+[05:35:12] [Server thread/INFO]: s_mitty issued server command: /trees
+[05:35:19] [Server thread/INFO]: s_mitty issued server command: /tree
+[05:35:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): tree
+[05:35:26] [Server thread/INFO]: s_mitty issued server command: /tree
+[05:35:26] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): tree
+[05:36:32] [Server thread/INFO]: s_mitty issued server command: /flora
+[05:36:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-327.0, 70.0, 643.0) - (-280.0, 70.0, 658.0)
+[05:37:07] [Server thread/INFO]: s_mitty issued server command: /set stone
+[05:37:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-290.0, 63.0, 629.0) - (-272.0, 63.0, 638.0)
+[05:39:43] [Server thread/INFO]: s_mitty issued server command: /kilall spider
+[05:39:52] [Server thread/INFO]: s_mitty issued server command: /killall spider
+[05:41:32] [Server thread/INFO]: s_mitty issued server command: /set air
+[05:41:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-310.0, 71.0, 643.0) - (-306.0, 76.0, 647.0)
+[05:48:16] [Server thread/INFO]: s_mitty issued server command: /time set day
+[05:50:42] [Server thread/INFO]: s_mitty issued server command: /set doublestoneslab
+[05:50:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set doublestoneslab - Region: (-326.0, 64.0, 639.0) - (-314.0, 69.0, 639.0)
+[05:50:49] [Server thread/INFO]: s_mitty issued server command: /set air
+[05:50:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-322.0, 70.0, 639.0) - (-317.0, 70.0, 639.0)
+[05:52:47] [Server thread/INFO]: s_mitty issued server command: /set doublestoneslab
+[05:52:47] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set doublestoneslab - Region: (-325.0, 64.0, 639.0) - (-315.0, 69.0, 639.0)
+[06:00:43] [Server thread/INFO]: s_mitty issued server command: /time set day
+[06:00:49] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[06:03:51] [Server thread/INFO]: s_mitty issued server command: /set stone
+[06:03:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-252.0, 63.0, 494.0) - (-243.0, 63.0, 559.0)
+[06:04:05] [Server thread/INFO]: s_mitty issued server command: /set air
+[06:04:05] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-244.0, 64.0, 501.0) - (-244.0, 64.0, 541.0)
+[06:06:03] [Server thread/INFO]: s_mitty issued server command: /copy
+[06:06:03] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[06:06:16] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:06:16] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-253.0, 64.0, 494.0)
+[06:10:30] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[06:10:30] [Server thread/INFO]: s_mitty left the game.
+[21:02:53] [Server thread/INFO]: s_mitty[/127.0.0.1:53098] logged in with entity id 495287 at ([kevlar] -284.86940136650145, 97.1222798925173, 569.4716632973461)
+[21:03:09] [Server thread/INFO]: s_mitty issued server command: /time set day
+[21:03:13] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[21:13:16] [Server thread/INFO]: s_mitty issued server command: /time set day
+[21:14:55] [Server thread/INFO]: s_mitty issued server command: /copy
+[21:14:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[21:14:58] [Server thread/INFO]: s_mitty issued server command: /rotate 90
+[21:14:58] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[21:15:06] [Server thread/INFO]: s_mitty issued server command: /paste
+[21:15:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-300.0, 64.0, 633.0)
+[21:15:10] [Server thread/INFO]: s_mitty issued server command: /undo
+[21:15:10] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[21:15:13] [Server thread/INFO]: s_mitty issued server command: /rotate 90
+[21:15:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[21:15:20] [Server thread/INFO]: s_mitty issued server command: /paste
+[21:15:20] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-300.0, 64.0, 637.0)
+[21:15:32] [Server thread/INFO]: s_mitty issued server command: /rotate 180
+[21:15:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 180
+[21:15:37] [Server thread/INFO]: s_mitty issued server command: /paste
+[21:15:37] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-292.0, 64.0, 633.0)
+[21:31:39] [Server thread/INFO]: s_mitty issued server command: /killall slime
+[21:36:44] [Server thread/INFO]: s_mitty issued server command: /time set night
+[21:38:05] [Server thread/INFO]: s_mitty issued server command: /time set day
+[21:50:32] [Server thread/INFO]: s_mitty issued server command: /time set day
+[22:02:08] [Server thread/INFO]: s_mitty issued server command: /time set day
+[22:20:55] [Server thread/INFO]: s_mitty issued server command: /warp airport
+[22:32:38] [Server thread/INFO]: s_mitty issued server command: /tool
+[22:32:42] [Server thread/INFO]: s_mitty issued server command: /wand
+[22:32:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /wand
+[22:33:32] [Server thread/INFO]: s_mitty issued server command: /cut
+[22:33:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-331.0, 65.0, 465.0) - (-297.0, 73.0, 495.0)
+[22:33:36] [Server thread/INFO]: s_mitty issued server command: /paste
+[22:33:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-314.0, 64.0, 497.0)
+[22:38:12] [Server thread/INFO]: s_mitty issued server command: /time set day
+[22:38:18] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[22:39:15] [Server thread/INFO]: s_mitty issued server command: /time set night
+[22:44:47] [Server thread/INFO]: s_mitty lost connection: You logged in from another location
+[22:44:47] [Server thread/INFO]: s_mitty left the game.
+[22:44:47] [Server thread/INFO]: s_mitty[/127.0.0.1:54586] logged in with entity id 592053 at ([kevlar] -284.154446364184, 117.67550715169763, 544.4408952350668)
+[22:45:33] [Server thread/INFO]: s_mitty lost connection: You logged in from another location
+[22:45:33] [Server thread/INFO]: s_mitty left the game.
+[22:45:33] [Server thread/INFO]: s_mitty[/127.0.0.1:54662] logged in with entity id 592525 at ([kevlar] -284.154446364184, 105.75190690755664, 544.4408952350668)
+[22:46:44] [Server thread/INFO]: s_mitty lost connection: Timed out
+[22:46:44] [Server thread/INFO]: s_mitty left the game.
+[22:53:17] [Server thread/INFO]: s_mitty[/127.0.0.1:54738] logged in with entity id 593128 at ([kevlar] -284.154446364184, 64.0, 544.4408952350668)
+[23:01:46] [Server thread/INFO]: s_mitty issued server command: /set air
+[23:01:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-345.0, 77.0, 364.0) - (-267.0, 99.0, 422.0)
+[23:02:19] [Server thread/INFO]: s_mitty issued server command: /set air
+[23:02:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-332.0, 77.0, 363.0) - (-311.0, 89.0, 363.0)
+[23:02:29] [Server thread/INFO]: s_mitty issued server command: /time set day
+[23:02:51] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[23:02:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-332.0, 77.0, 363.0) - (-311.0, 89.0, 363.0)
+[23:03:09] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[23:03:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-346.0, 62.0, 364.0) - (-293.0, 88.0, 404.0)
+[23:03:19] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[23:03:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-346.0, 70.0, 364.0) - (-279.0, 88.0, 394.0)
+[23:04:39] [Server thread/INFO]: s_mitty issued server command: /set air
+[23:04:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-347.0, 85.0, 363.0) - (-333.0, 89.0, 363.0)
+[23:04:48] [Server thread/INFO]: s_mitty issued server command: /set ai
+[23:04:48] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set ai - Region: (-347.0, 85.0, 360.0) - (-331.0, 89.0, 363.0)
+[23:04:53] [Server thread/INFO]: s_mitty issued server command: /set air
+[23:04:53] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-347.0, 85.0, 360.0) - (-331.0, 89.0, 363.0)
+[23:10:02] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[23:10:02] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-352.0, 76.0, 358.0) - (-317.0, 87.0, 376.0)
+[23:10:13] [Server thread/INFO]: s_mitty issued server command: /flora
+[23:10:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-352.0, 76.0, 358.0) - (-317.0, 87.0, 376.0)
+[23:10:36] [Server thread/INFO]: s_mitty issued server command: /flora
+[23:10:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-338.0, 76.0, 370.0) - (-284.0, 76.0, 390.0)
+[23:10:40] [Server thread/INFO]: s_mitty issued server command: /flora
+[23:10:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-334.0, 76.0, 370.0) - (-284.0, 76.0, 399.0)
+[23:10:42] [Server thread/INFO]: s_mitty issued server command: /flora
+[23:10:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-329.0, 76.0, 370.0) - (-284.0, 76.0, 403.0)
+[23:10:46] [Server thread/INFO]: s_mitty issued server command: /flora
+[23:10:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-325.0, 76.0, 370.0) - (-284.0, 76.0, 411.0)
+[23:10:50] [Server thread/INFO]: s_mitty issued server command: /flora
+[23:10:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-318.0, 76.0, 370.0) - (-284.0, 76.0, 414.0)
+[23:11:22] [Server thread/INFO]: s_mitty issued server command: /et air
+[23:11:27] [Server thread/INFO]: s_mitty issued server command: /set air
+[23:11:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-316.0, 77.0, 360.0) - (-294.0, 86.0, 365.0)
+[23:12:13] [Server thread/INFO]: s_mitty issued server command: /flora
+[23:12:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /flora - Region: (-328.0, 76.0, 352.0) - (-286.0, 77.0, 370.0)
+[23:22:07] [Server thread/INFO]: s_mitty issued server command: /time set day
+[23:36:31] [Server thread/INFO]: s_mitty issued server command: /time set day
+[23:36:38] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[23:42:19] [Server thread/INFO]: s_mitty issued server command: /set comparator
+[23:42:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set comparator - Region: (-314.0, 63.0, 437.0) - (-314.0, 63.0, 462.0)
+[23:42:34] [Server thread/INFO]: s_mitty issued server command: /redo
+[23:42:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /redo
+[23:42:40] [Server thread/INFO]: s_mitty issued server command: /undo
+[23:42:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[23:44:14] [Server thread/INFO]: s_mitty issued server command: /time set night
+[23:44:36] [Server thread/INFO]: s_mitty issued server command: /set repeater
+[23:44:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set repeater - Region: (-270.0, 63.0, 437.0) - (-270.0, 63.0, 462.0)
+[23:44:43] [Netty IO #5/INFO]: <s_mitty> repeat
+[23:44:48] [Server thread/INFO]: s_mitty issued server command: /set repeat
+[23:44:48] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set repeat - Region: (-270.0, 63.0, 437.0) - (-270.0, 63.0, 462.0)
+[23:48:17] [Server thread/INFO]: s_mitty lost connection: You logged in from another location
+[23:48:17] [Server thread/INFO]: s_mitty left the game.
+[23:48:17] [Server thread/INFO]: s_mitty[/127.0.0.1:55596] logged in with entity id 643268 at ([kevlar] -262.9521557882542, 64.73901677465356, 438.3360371943796)
+[23:48:46] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[23:48:46] [Server thread/INFO]: s_mitty left the game.
